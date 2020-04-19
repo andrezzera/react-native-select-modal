@@ -1,0 +1,33 @@
+{
+  "name": "react-native-select-modal",
+  "version": "1.0.0",
+  "description": "A simply and easy to use component for search and select items in a modal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrezzera/react-native-select-modal.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "autocomplete",
+    "autocomplete-modal",
+    "search-and-select",
+    "react-native-select-modal"
+  ],
+  "dependencies": {
+    "styled-components": "^5.1.0"
+  },
+  "author": "André Paulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrezzera/react-native-select-modal/issues"
+  },
+  "homepage": "https://github.com/andrezzera/react-native-select-modal#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
